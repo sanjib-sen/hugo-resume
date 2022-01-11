@@ -1,8 +1,9 @@
 ---
 title: Sanjib Kumar Sen
-role: Software Engineer | Undergraduate Student
-bio: My research interests include Python, IoT, robotics, mobile computing and
-  programmable matter.
+role: Software Engineer | Researcher | Undergraduate Student
+avatar_filename: 240441443_1053824695354351_3943964483809837032_n.jpg
+bio: My research interests include Python, Linux Software Development, ML, AI,
+  IoT, robotics, mobile computing and programmable matter.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -11,39 +12,44 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
+  - icon: github
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://github.com/sanjib-sen
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/sanjibsen/
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
+  - display:
+      header: true
+    link: https://www.facebook.com/sanjib.kumarsen.963
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    icon: facebook
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: BRAC University
+    url: bracu.ac.bd
+  - name: MainframeLabs
+    url: https://mainframelabs.ltd/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Computer Science and Engineering
+      institution: BRAC University
+      year: 2022
 email: sksenonline@gmail.com
 superuser: true
 highlight_name: true
 ---
+<!--StartFragment-->
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Freelance Software Developer, Student Tutor, and 3rd-year Undergraduate CS Student that's why not looking for a full-time job but can contribute to Projects/internships and part time jobs.\
+\
+Experienced in Python, Automation, Scripting, ReactJS, NextJS, Web Development, Software Development with Graphical User Interface (Tkinter), Python Automation, Web Scrapping, Java, Shell (Powershell, ZSH, bash), C++, Problem Solving, Windows Support, Linux (I use arch btw ), System Administration (Using Active Directory or Redhat/Debian), Data Science, and Machine Learning.\
+\
+Have Done numerous Software Development Projects. Check my Github and Kaggle Profile for the Projects.\
+\
+I also write articles related to technology as my hobby.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+<!--EndFragment-->
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
