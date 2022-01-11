@@ -5,9 +5,10 @@ avatar_filename: avatar.jpg.jpg
 bio: My research interests include Python, Linux Software Development, ML, AI,
   IoT, robotics, mobile computing and programmable matter.
 interests:
+  - Automation
+  - Data Science
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Python
 social:
   - icon: envelope
     icon_pack: fas
@@ -28,9 +29,11 @@ social:
     icon: facebook
 organizations:
   - name: BRAC University
-    url: bracu.ac.bd
+    url: https://www.bracu.ac.bd
   - name: MainframeLabs
     url: https://mainframelabs.ltd/
+  - url: https://www.sohopathi.io/
+    name: Online Sohopathi
 education:
   courses:
     - course: BSc in Computer Science and Engineering
