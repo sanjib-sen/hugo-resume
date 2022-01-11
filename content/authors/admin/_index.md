@@ -1,7 +1,7 @@
 ---
 title: Sanjib Kumar Sen
 role: Software Engineer | Researcher | Undergraduate Student
-avatar_filename: 240441443_1053824695354351_3943964483809837032_n.jpg
+avatar_filename: avatar.jpg.jpg
 bio: My research interests include Python, Linux Software Development, ML, AI,
   IoT, robotics, mobile computing and programmable matter.
 interests:
